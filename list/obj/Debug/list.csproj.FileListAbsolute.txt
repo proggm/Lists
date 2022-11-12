@@ -1,0 +1,8 @@
+E:\проекты\list\list\bin\Debug\list.exe.config
+E:\проекты\list\list\bin\Debug\list.exe
+E:\проекты\list\list\bin\Debug\list.pdb
+E:\проекты\list\list\obj\Debug\list.csproj.AssemblyReference.cache
+E:\проекты\list\list\obj\Debug\list.csproj.SuggestedBindingRedirects.cache
+E:\проекты\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+E:\проекты\list\list\obj\Debug\list.exe
+E:\проекты\list\list\obj\Debug\list.pdb
